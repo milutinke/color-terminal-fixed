@@ -1,0 +1,41 @@
+{
+  "main": "color-terminal-fixed",
+  "name": "color-terminal-fixed",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/milutinke/color-terminal-fixed.git"
+  },
+  "version": "0.0.5",
+  "author": {
+    "name": "Mattijs Hoitink",
+    "email": "mattijs@monkeyandmachine.com",
+    "url": "http://monkeyandmachine.com/"
+  },
+  "bugs": {
+    "url": "https://github.com/milutinke/color-terminal-fixed"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Alexander 'yumitsu' Zinchenko",
+      "email": "yumitsu@mouseed.com",
+      "url": "https://github.com/yumitsu/"
+    },
+    {
+      "name": "Forgotten Labors Initiative",
+      "email": "forlab-public@mouseed.com",
+      "url": "https://github.com/forgotten-labors"
+    }
+  ],
+  "deprecated": false,
+  "description": "Control your terminal colours (Fixed version of the original package).",
+  "engines": {
+    "node": "*"
+  },
+  "homepage": "https://github.com/milutinke/color-terminal-fixed",
+  "keywords": [
+    "terminal",
+    "colors",
+    "text"
+  ]
+}
